@@ -1,200 +1,193 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Uday A S",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "iamuday1618@gmail.com",
+    "phone": "+91 9353699335",
+    "url": "https://itisuday.github.io/",
+    "summary": "An awesome guy",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Horamavu",
+      "postalCode": "560043",
+      "city": "Bangalore",
+      "countryCode": "IN",
+      "region": "Karnataka"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "It_Is_Uday",
+        "url": "https://twitter.com/It_Is_Uday"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Cisco",
+      "position": "Software Engineer II",
+      "startDate": "Aug 2023",
+      "endDate": "Present",
+      "highlights": [
+        "Designed and implemented a new end-to-end approach for enabling service user login in the appliances through tunnels server under tight timelines.",
+        "Significantly reduced the time for VMware tagging by over 80% by redesigning the process as a multithreaded background task.",
+        "Worked extensively on Django, Pexpect, VMware, Celery, and multithreaded programming methodologies, tailored to multienvironment requirements.",
+        "Reduced 10% of workload of operations teams by expanding the platform's capabilities through the addition of multiple features, most notably automated the ability to replace VIPs.",
+        "Authored a crucial program to generate and add certificates to all the prod appliances, reducing manual effort by 99%.",
+        "Engineered a solution to automate prod appliance replacement, ensuring configuration retention and reducing manual workload by 90% in such cases.",
+        "Spearheaded product integration efforts over 4 release cycles, aligning with our sister team’s evolving feature set and reducing cross-team dependencies by 80%.",
+        "Implemented service user login to appliance via Kerberos, replacing the legacy method. This change significantly improved the system design, security, and code maintainability.",
+        "Designed and implemented a multithreaded program to attach custom tags to servers deployed in VMware vSphere.",
+        "Conducted talks on topics like “Art of Functional Programming” to a broader audience."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Cisco",
+      "position": "Technical Undergraduate Intern",
+      "startDate": "Jan 2023",
+      "endDate": "June 2023",
+      "highlights": [
+        "Designed and developed a secure public-facing form with custom input validation across multiple fields using Django.",
+        "Utilized Jira APIs to automatically create a ticket for quick action.",
+        "Product deployed in production using Docker and Apache server.",
+        "Improved dev team productivity by 40% by delivering a long-awaited program to detect and integrate hierarchical XML configuration changes to a Mako XML template."
+      ]
+    },
+    {
+      "name": "HealthBadge",
+      "position": "Software Engineer Intern",
+      "startDate": "Nov 2021",
+      "endDate": "Feb 2022",
+      "highlights": [
+        "Designed and developed a robust agent-based simulation of multi-dose vaccination policy.",
+        "Implemented an algorithm to assess the effect of spreading of disease by an agent(s)."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "RV College of Engineering",
+      "location": "Bangalore, India",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "Aug 2019",
+      "endDate": "July 2023",
+      "score": "8.29"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Python"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Java"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "C/C++"
+    },
+    {
+      "name": "Haskell"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "NodeJS"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Retrieval Augmented Generation"
+    },
+    {
+      "name": "Transformers"
+    },
+    {
+      "name": "Agentic AI"
+    },
+    {
+      "name": "Langchain & Langgraph"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Blockchain"
+    },
+    {
+      "name": "Data Structures and Algorithms"
+    },
+    {
+      "name": "CI/CD, Docker"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Exoplanet detection (Ongoing)",
+      "summary": "A transformer model to search and detect planets outside our solar system, with reliable accuracy, using the data generated by live Transiting Exoplanet Survey Satellite by NASA. Leverages the well established 'Transit light curve' method for the detection.",
+      "highlights": []
+    },
+    {
+      "name": "Blockchain from Ground-up",
+      "summary": "A dynamic peer-to-peer blockchain built from scratch inspired by Bitcoin. Features include support for multiple connections, wallet, and transaction pools. Utilizes the Proof-of-Work consensus system to verify transactions.",
+      "highlights": [
+        "Tools: NodeJS, Web sockets, ExpressJS, Jest"
+      ]
+    },
+    {
+      "name": "Achievements manager",
+      "summary": "A website for storing and retrieving of details related to an achievement made by a student of a particular college. Supports multiple views depending on the authorized user i.e. Student, Staff.",
+      "highlights": [
+        "Tools: Python, Django, SQLite, HTML/CSS, Bootstrap"
+      ]
+    },
+    {
+      "name": "HyperDrive",
+      "summary": "A GUI-based Google Drive desktop client app that supports uploading, downloading, deleting, and searching of files.",
+      "highlights": [
+        "Tools: Google Drive APIs, Google OAuth, Java, JavaFX"
+      ]
+    },
+    {
+      "name": "PageRank",
+      "summary": "PageRank works by counting the number of links to a page to determine a rough estimate of how important the website is. The algorithm uses the Markov chain / Random surfer model to achieve the same.",
+      "highlights": [
+        "Tools: Python, HTML"
+      ]
+    },
+    {
+      "name": "Autocomplete",
+      "summary": "A CLI program for real-time type-ahead auto-completion of user input inspired by bash.",
+      "highlights": [
+        "Tools: C++, GNU Readline"
+      ]
+    },
+    {
+      "name": "Minesweeper AI",
+      "summary": "A GUI based classic Minesweeper game that can be played both by a human and an AI. The AI acts as a knowledge-based agent which uses propositional logic to infer the best move.",
+      "highlights": [
+        "Tools: Python, Pygame"
+      ]
+    },
+    {
+      "name": "Traffic sign detector",
+      "summary": "The machine learning model identifies traffic signs from an image using convolutional neural networks at an accuracy of 96% using the GTSRB dataset.",
+      "highlights": [
+        "Tools: Python, Tensorflow, OpenCV, Keras"
+      ]
     }
   ]
 }
