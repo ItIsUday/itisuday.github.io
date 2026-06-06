@@ -143,51 +143,37 @@
     {
       "name": "Blockchain from Ground-up",
       "summary": "A dynamic peer-to-peer blockchain built from scratch inspired by Bitcoin. Features include support for multiple connections, wallet, and transaction pools. Utilizes the Proof-of-Work consensus system to verify transactions.",
-      "highlights": [
-        "Tools: NodeJS, Web sockets, ExpressJS, Jest"
-      ]
+      "highlights": ["Tools: NodeJS, Web sockets, ExpressJS, Jest"]
     },
     {
       "name": "Achievements manager",
       "summary": "A website for storing and retrieving of details related to an achievement made by a student of a particular college. Supports multiple views depending on the authorized user i.e. Student, Staff.",
-      "highlights": [
-        "Tools: Python, Django, SQLite, HTML/CSS, Bootstrap"
-      ]
+      "highlights": ["Tools: Python, Django, SQLite, HTML/CSS, Bootstrap"]
     },
     {
       "name": "HyperDrive",
       "summary": "A GUI-based Google Drive desktop client app that supports uploading, downloading, deleting, and searching of files.",
-      "highlights": [
-        "Tools: Google Drive APIs, Google OAuth, Java, JavaFX"
-      ]
+      "highlights": ["Tools: Google Drive APIs, Google OAuth, Java, JavaFX"]
     },
     {
       "name": "PageRank",
       "summary": "PageRank works by counting the number of links to a page to determine a rough estimate of how important the website is. The algorithm uses the Markov chain / Random surfer model to achieve the same.",
-      "highlights": [
-        "Tools: Python, HTML"
-      ]
+      "highlights": ["Tools: Python, HTML"]
     },
     {
       "name": "Autocomplete",
       "summary": "A CLI program for real-time type-ahead auto-completion of user input inspired by bash.",
-      "highlights": [
-        "Tools: C++, GNU Readline"
-      ]
+      "highlights": ["Tools: C++, GNU Readline"]
     },
     {
       "name": "Minesweeper AI",
       "summary": "A GUI based classic Minesweeper game that can be played both by a human and an AI. The AI acts as a knowledge-based agent which uses propositional logic to infer the best move.",
-      "highlights": [
-        "Tools: Python, Pygame"
-      ]
+      "highlights": ["Tools: Python, Pygame"]
     },
     {
       "name": "Traffic sign detector",
       "summary": "The machine learning model identifies traffic signs from an image using convolutional neural networks at an accuracy of 96% using the GTSRB dataset.",
-      "highlights": [
-        "Tools: Python, Tensorflow, OpenCV, Keras"
-      ]
+      "highlights": ["Tools: Python, Tensorflow, OpenCV, Keras"]
     }
   ]
 }
