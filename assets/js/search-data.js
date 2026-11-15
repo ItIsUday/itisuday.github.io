@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-anyone-dread-the-selfless-i",
+        },{id: "post-3b1b-neural-networks-part-1",
+        
+          title: "3B1B Neural Networks: Part 1",
+        
+        description: "Neurons and Network",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/neural-networks/";
+          
+        },
+      },{id: "post-anyone-dread-the-selfless-i",
         
           title: "Anyone Dread: The Selfless I",
         
